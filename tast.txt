@@ -1,0 +1,31 @@
+Write a function to accept two integers and one character (+||-||/||*)
+The function must return the error (if any) and the result according to the mathematical
+operation.
+Use switch for identifying the respective operation.
+
+func main(){
+b
+  f := Test()
+
+  a
+}
+
+func Test() int {
+  var a int
+  return a
+  for  {
+    a
+    var b
+  }
+  if{
+  c
+  }
+  switch {
+  case a:
+  s
+
+  case b:
+  s
+  }
+  s
+}
